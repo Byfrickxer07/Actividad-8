@@ -89,7 +89,7 @@ document.addEventListener('DOMContentLoaded', () => {
         if (logoDataUrl) {
             logoPreview.src = logoDataUrl;
         } else {
-            logoPreview.src = 'assets/default-logo.png';
+            logoPreview.src = 'download.png';
         }
     };
     
